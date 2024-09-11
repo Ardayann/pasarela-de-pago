@@ -5,7 +5,7 @@ Implementación de pasarela de pago en página web de ejemplo
 Para integrar la pasarela de ejemplo a la página web de ejemplo, se hizo uso de la función web checkout ofrecida por la plataforma InfinityFree (https://micreacionexitosa.free.nf/wp-admin/about.php)
 
 ## Previsualización
-Se presentan imágenes relacionadas con el ejemplo dado que simula una página web de comercio electrónico.
+Se presentan imágenes relacionadas con el ejemplo dado que simula una página web de comercio electrónico. (https://micreacionexitosa.free.nf/checkout/)
 
 ### Página principal
 ![Página principal](./imagenes/main_page.PNG)
