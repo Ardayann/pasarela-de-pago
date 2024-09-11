@@ -8,3 +8,6 @@ Para integrar la pasarela de ejemplo a la página web de ejemplo, se hizo uso de
 Se presentan imágenes relacionadas con el ejemplo dado que simula una página web de comercio electrónico.
 
 ### Página principal
+![Página principal](./images/main_page.PNG)
+![Página principal](./images/main_page1.PNG)
+![Página principal](./images/main_page2.PNG)
